@@ -530,7 +530,7 @@ body.sidebar-closed .main-area {
     align-self: flex-start;
   }
 
-  /* botão flutuante da Sidebar */
+  /* botão flutuante da Sidebaar */
   .sidebar-toggle.floating {
     position: fixed;
     left: 12px;
